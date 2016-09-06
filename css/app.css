@@ -1,0 +1,48 @@
+header, footer {
+    background-color: #333;
+    text-align: center;
+    padding: 20px;
+    color: #ddd;
+}
+
+aside {
+    background-color: #f7f7f7;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.range-title {
+    color: darkblue;
+}
+
+.range-list {
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.range-list h4 {
+    margin-bottom: 40px;
+    color: darkorange;
+    font-weight: bold;
+}
+
+.range-list img {
+    width: 100%;
+    height: 100%;
+    max-width: 140px;
+    max-height: 140px;
+}
+
+article {
+    padding: 40px;
+}
+article img {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    box-shadow: 6px 6px 8px #777;
+    margin-bottom: 20px;
+}
+article p {
+    font-size: 16px;
+}
