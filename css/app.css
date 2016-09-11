@@ -1,4 +1,4 @@
-header, footer {
+footer {
     background-color: #333;
     text-align: center;
     padding: 20px;
@@ -45,4 +45,13 @@ article img {
 }
 article p {
     font-size: 16px;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    padding: 30px 15px;
+}
+.navbar img{
+    width: 70%;
+    height: 70%;
 }
